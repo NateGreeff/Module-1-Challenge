@@ -24,10 +24,11 @@ The website now meets the following acceptance criteria:
 
 ## Link to Site
 
-www.example.com
+https://nategreeff.github.io/Module-1-Challenge/
 
 ## Screenshot
 
+![image](https://github.com/NateGreeff/Module-1-Challenge/assets/21099065/bd9c645e-5a31-47cc-af50-7976cd5e5a96)
 
 
 ## Conclusion
